@@ -35,7 +35,7 @@
             "managementZone": null
          },
          "assignedEntities": [
-            "CUSTOM_APPLICATION-D6D7996C3AF148BF"
+            "InternalAppID"
          ]
       },
       {
@@ -412,7 +412,7 @@
             "filtersPerEntityType": {
                "MONITORED_ENTITY˟DEVICE_APPLICATION": {
                   "SPECIFIC_ENTITIES": [
-                     "CUSTOM_APPLICATION-D6D7996C3AF148BF"
+                     "InternalAppID"
                   ]
                }
             }
@@ -463,7 +463,7 @@
             "filtersPerEntityType": {
                "MONITORED_ENTITY˟DEVICE_APPLICATION": {
                   "SPECIFIC_ENTITIES": [
-                     "CUSTOM_APPLICATION-D6D7996C3AF148BF"
+                     "InternalAppID"
                   ]
                }
             }
@@ -576,7 +576,7 @@
             "timeframe": null,
             "managementZone": null
          },
-         "markdown": "[User Sessions](#usersearchoverview;filtrfilterApplication=CUSTOM_APPLICATION-D6D7996C3AF148BF)"
+         "markdown": "[User Sessions](#usersearchoverview;filtrfilterApplication=InternalAppID)"
       },
       {
          "name": "Markdown",
