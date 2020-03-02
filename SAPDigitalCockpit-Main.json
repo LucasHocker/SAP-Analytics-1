@@ -64,7 +64,9 @@
             "filtersPerEntityType": {
                "HOST": {
                   "AUTO_TAGS": [
-                     "SAP-ECC Application Tier"
+                     "SAP:Enqueue Server",
+		     "SAP:Message Server",
+		     "SAP:Dispatcher"
                   ]
                }
             }
@@ -97,7 +99,8 @@
             "filtersPerEntityType": {
                "HOST": {
                   "AUTO_TAGS": [
-                     "Databases"
+                     "SAP:SAP MaxDB - Kernel",
+		     "SAP:HANA"
                   ]
                }
             }
