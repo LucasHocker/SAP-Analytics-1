@@ -260,17 +260,6 @@
                "resultMetadata": {}
             },
             "filtersPerEntityType": {
-               "IOT": {
-                  "SPECIFIC_ENTITIES": [
-                     "CUSTOM_DEVICE-A07C1690D8B29AD7",
-                     "CUSTOM_DEVICE-1B9BE7418D6868EE",
-                     "CUSTOM_DEVICE-27FE3EDB3E74FE6C",
-                     "CUSTOM_DEVICE-14328E7F040FDFE2",
-                     "CUSTOM_DEVICE-E712F0893DE0D29F",
-                     "CUSTOM_DEVICE-91D0D2C46D62CA39",
-                     "CUSTOM_DEVICE-5F9AB03863E682F0"
-                  ]
-               }
             }
          }
       },
@@ -317,17 +306,6 @@
                "resultMetadata": {}
             },
             "filtersPerEntityType": {
-               "IOT": {
-                  "SPECIFIC_ENTITIES": [
-                     "CUSTOM_DEVICE-A07C1690D8B29AD7",
-                     "CUSTOM_DEVICE-1B9BE7418D6868EE",
-                     "CUSTOM_DEVICE-27FE3EDB3E74FE6C",
-                     "CUSTOM_DEVICE-14328E7F040FDFE2",
-                     "CUSTOM_DEVICE-E712F0893DE0D29F",
-                     "CUSTOM_DEVICE-91D0D2C46D62CA39",
-                     "CUSTOM_DEVICE-5F9AB03863E682F0"
-                  ]
-               }
             }
          }
       },
