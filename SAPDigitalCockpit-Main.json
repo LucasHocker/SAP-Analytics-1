@@ -208,7 +208,7 @@
                      "aggregation": "AVG",
                      "percentile": null,
                      "type": "LINE",
-                     "entityType": "MONITORED_ENTITY˟CUSTOM_DEVICE_GROUP",
+                     "entityType": "IOT",
                      "dimensions": [],
                      "sortAscending": false,
                      "sortColumn": true,
